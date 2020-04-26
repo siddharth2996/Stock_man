@@ -1,0 +1,7 @@
+/stockmanager-s/src/main/java/uk/co/danielbryant/djshopping/stockmanager/resources/StockResource.java
+/stockmanager-s/src/main/java/uk/co/danielbryant/djshopping/stockmanager/services/StockService.java
+/stockmanager-s/src/main/java/uk/co/danielbryant/djshopping/stockmanager/repositories/StockRepository.java
+/stockmanager-s/src/main/java/uk/co/danielbryant/djshopping/stockmanager/exceptions/StockNotFoundException.java
+/stockmanager-s/src/main/java/uk/co/danielbryant/djshopping/stockmanager/model/Stock.java
+/stockmanager-s/src/main/java/uk/co/danielbryant/djshopping/stockmanager/config/DataGenerator.java
+/stockmanager-s/src/main/java/uk/co/danielbryant/djshopping/stockmanager/StockManagerApplication.java
