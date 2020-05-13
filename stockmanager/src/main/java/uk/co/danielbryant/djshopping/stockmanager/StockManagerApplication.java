@@ -9,6 +9,6 @@ public class StockManagerApplication {
     public static void main(String[] args) {
         SpringApplication.run(StockManagerApplication.class, args);
         
-        System.out.println("welcome from github");
+        System.out.println("hello github");
     }
 }
