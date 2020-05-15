@@ -1,10 +1,10 @@
 !#/bin/bash
 
-# copy the new jar to build location 
+# copy the new jar to build location  
 
 cp -f stockmanager/target/*.jar jenkins/build/
 
-echo "****************************"
+echo "*********************************"
 
 echo " BUILDING DOCKER IMAGE "
 
